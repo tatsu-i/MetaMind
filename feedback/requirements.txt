@@ -1,0 +1,10 @@
+uvicorn==0.17.6
+fastapi==0.78.0
+pydantic==1.9.0
+requests==2.27.1
+numpy==1.21.6
+spidev==3.5
+RPi.GPIO==0.6.5
+ST7789==0.0.4
+pillow==9.1.0
+mutagen==1.45.1

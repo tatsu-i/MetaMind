@@ -1,0 +1,19 @@
+alerm:
+  sound: "/sounds/waves/beta_noise.flac"
+  time: "08:00"
+
+stages:
+  rem:
+    sound: "/sounds/明晰夢/あなたは夢を見ています.flac"
+  nonrem:
+    sound: "/sounds/waves/beta_noise.flac"
+  wakeup:
+    sound: "/sounds/waves/delta_noise.flac"
+
+hypnosis:
+  sound_dir: "/sounds/hypnosis"
+
+system:
+  logo_image: "/sounds/img/logo.png"
+  init_volume_pct: 50
+  
