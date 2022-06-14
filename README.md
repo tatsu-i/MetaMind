@@ -6,6 +6,7 @@
 
 * [ヘミシンク音声の解析](./notebook/wav_analysis.ipynb)
 * [ヘミシンクゲートウェイシリーズ使用時の脳波を計測してみる](./notebook/hemi_sync.ipynb)
+* [睡眠時の脳波を誘導できるか検証してみる](./notebook/sleep_stage.ipynb)
 
 ## バイオフィードバックデバイス
 
